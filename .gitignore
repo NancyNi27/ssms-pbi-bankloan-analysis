@@ -1,0 +1,9 @@
+# Word temp files
+~$*.docx
+
+# OS
+.DS_Store
+
+# VS Code
+.vscode/
+
